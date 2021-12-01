@@ -1,0 +1,15 @@
+.makersLogo{
+    width: 70px !important;
+    border-radius: 50%;
+}
+
+.comInput{
+    margin-top: 2%;
+    /* background-color: rgb(233, 229, 222); */
+}
+
+.CommentButton{
+    background-color: #d3b196;
+    border-radius: 7px;
+    margin-left: 2%;
+}

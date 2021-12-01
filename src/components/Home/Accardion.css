@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Barlow+Condensed:ital,wght@0,400;1,600;1,700&family=DM+Serif+Display&family=Outfit:wght@200;500&display=swap');
+
+.filter{
+    font-family: "Barlow" !important ;
+    font-weight: bold !important;
+    font-size: 35px !important;
+
+}
+
+@media (max-width:947px) {
+    .filter{
+        display: none;
+    }
+    .accordion{
+        display: none;
+    }
+    .ExpandMore{
+        display: none;
+    }
+}
+

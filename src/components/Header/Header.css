@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Barlow+Condensed:ital,wght@0,400;1,600;1,700&family=DM+Serif+Display&family=Outfit:wght@200;500&display=swap');
+
+@media (max-width:816px) {
+    .logo{
+        display: none !important;
+    }
+}
+.Appbar{
+    background-color: #f2ede9 !important;
+}
+
+.logo{
+    color:black !important;
+    font-size: 35px !important;
+    font-weight:bold !important;
+    font-family: "Barlow" !important;
+}
+
+.AddCartP{
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+}
+
+.search{
+    background-color: #fff !important;
+    border: 1px #ccc solid;
+    border-radius: 5px !important;
+    margin-left: 10% !important;
+}
+.MuiSvgIcon-root{
+    color: black;
+}
+.logoA{
+    text-decoration: none;
+}
+.favs{
+    font-size: 17px;
+    font-weight: bold;
+    color: red !important;
+}
+@media (min-width: 0px) {
+    .css-1guk29{
+        display: flex !important;
+    }
+}
+
+@media (max-width:570px) {
+    .favs{
+        display: none !important;
+    }
+}
+

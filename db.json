@@ -1,0 +1,309 @@
+{
+  "products": [
+    {
+      "type": "PANTS",
+      "title": "Pants Lene",
+      "description": "It is a half-zip-up man-to-man with a more natural mood.It is a product with lettering that adds to the casualness, and can be paired with any pants.It is an item that can be matched sensibly. It is easy to match with any body type, so it is good to use it as a daily item.Even if you wear it lightly, it adds a natural look,This product is more recommended for those who like casual mood.*There is a string strap at the hem, so the hem design can be adjusted :)",
+      "price": "800",
+      "salePrice": "700",
+      "discountInPercent": "5",
+      "phone": "+996 700 312 312",
+      "image": [
+        "https://cafe24img.poxo.com/looknone/web/product/medium/202110/527f3899f3ff8b5099f1e042f9be28ab.webp"
+      ],
+      "countInStock": "5",
+      "likes": [
+        "mali@gmail.com"
+      ],
+      "id": 1,
+      "comments": [
+        "Хорошо поработали👍👍, классные одежды❤️"
+      ]
+    },
+    {
+      "type": "Outer",
+      "title": "Black Coat",
+      "description": "It is a knit that I like enough to be called a knit for life., eye, gray and brown 4 colors will be updated separately!Ivory was updated first. Enough to call it a life knitThe fit, fabric, warmth, finish, and design are so perfect.First of all, if you fold it inside with a shibori design at the hem, not a long length,It is a product that can be adjusted so that it does not come loose easily.",
+      "price": "1000",
+      "salePrice": "900",
+      "discountInPercent": "5",
+      "phone": "+996 700 312 312",
+      "image": [
+        "https://cafe24img.poxo.com/looknone/web/product/medium/202111/b116d6f7e170cc5c2b6a3abfdbfe6fcf.webp"
+      ],
+      "countInStock": "5",
+      "likes": [
+        null,
+        "malikaaa@gmail.com",
+        "mali@gmail.com"
+      ],
+      "id": 2,
+      "comments": []
+    },
+    {
+      "type": "PANTS",
+      "title": "Pants Black",
+      "description": "A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life.Let’s Pro.",
+      "price": "360",
+      "salePrice": "300",
+      "discountInPercent": "5",
+      "phone": "+996 700 312 312",
+      "image": [
+        "https://cafe24img.poxo.com/looknone/web/product/medium/202106/2c8780f9bba0fb6cba123e9e809ec589.webp"
+      ],
+      "countInStock": "5",
+      "likes": [],
+      "id": 3,
+      "comments": [],
+      "details": "https://cafe24img.poxo.com/looknone/web/product_img/01/211014_07_02_in01.jpg"
+    },
+    {
+      "type": "Outer",
+      "title": "MTS Coat ",
+      "description": "It is a knit that I like enough to be called a knit for life., eye, gray and brown 4 colors will be updated separately!Ivory was updated first. Enough to call it a life knitThe fit, fabric, warmth, finish, and design are so perfect.First of all, if you fold it inside with a shibori design at the hem, not a long length,It is a product that can be adjusted so that it does not come loose easily.",
+      "price": "999",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "+996 700 312 312",
+      "image": [
+        "https://cafe24img.poxo.com/looknone/web/product/medium/202111/4923df9a40bcec0138f8eac32daa9276.webp"
+      ],
+      "countInStock": "5",
+      "likes": [],
+      "id": 4,
+      "comments": []
+    },
+    {
+      "type": "PANTS",
+      "title": "White-R",
+      "description": "It is a knit that I like enough to be called a knit for life., eye, gray and brown 4 colors will be updated separately!Ivory was updated first. Enough to call it a life knitThe fit, fabric, warmth, finish, and design are so perfect.First of all, if you fold it inside with a shibori design at the hem, not a long length,It is a product that can be adjusted so that it does not come loose easily.",
+      "price": "2000",
+      "salePrice": "2500",
+      "discountInPercent": "10",
+      "phone": "+996 700 312 312",
+      "image": [
+        "https://cafe24img.poxo.com/looknone/web/product/medium/202111/2789f1b0e9e69a11bd6afbd257e0a8d4.webp"
+      ],
+      "countInStock": "5",
+      "likes": [],
+      "id": 5,
+      "comments": []
+    },
+    {
+      "type": "PANTS",
+      "title": "Black-R",
+      "description": "It is a knit that I like enough to be called a knit for life., eye, gray and brown 4 colors will be updated separately!Ivory was updated first. Enough to call it a life knitThe fit, fabric, warmth, finish, and design are so perfect.First of all, if you fold it inside with a shibori design at the hem, not a long length,It is a product that can be adjusted so that it does not come loose easily.",
+      "price": "3000",
+      "salePrice": "2000",
+      "discountInPercent": "5",
+      "phone": "+996 700 312 312",
+      "image": [
+        "https://cafe24img.poxo.com/looknone/web/product/medium/202110/f1b7d393370ea57c868b11324d19df4d.webp"
+      ],
+      "countInStock": "5",
+      "likes": [],
+      "id": 6,
+      "comments": []
+    },
+    {
+      "type": "SHIRTS",
+      "title": "Long Cuff Ring Shirt",
+      "description": "fit & detail It is made with a trendy overfit, and is a comfortable and practical product with a dropped shoulder line and relaxed sleeve length. The wide collar design does not make the neckline look cramped, and you can feel the effect of making your face look smaller. With a loose fit and length that covers the hips, it covers the body shape and at the same time creates a soft fit to add a feminine mood. The wide cuffs are the point. Fold the cuffs in half or straighten them out and give them a point with a ring to create a variety of styles. With a basic shirt design, it can be worn alone or layered with various items. It is a long cuff ring shirt made by Looknon, which is highly recommended for daily use.",
+      "price": "300",
+      "salePrice": "200",
+      "discountInPercent": "10%",
+      "phone": "+996 700 312 312",
+      "image": [
+        "https://cafe24img.poxo.com/looknone/web/product/medium/202110/05f9b931ff3351dfed05faaa6aff6265.webp"
+      ],
+      "countInStock": "5",
+      "details": "https://cafe24img.poxo.com/looknone/web/product_img/01/211014_07_02_in01.jpg",
+      "likes": [],
+      "model": "Pro max",
+      "id": 7,
+      "comments": []
+    },
+    {
+      "type": "Outer",
+      "title": " Stripe ",
+      "description": "A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life.Let’s Pro.",
+      "price": "999",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "+996 700 312 312",
+      "image": [
+        "https://cafe24img.poxo.com/looknone/web/product/medium/202111/330ae159df31cde9ed1081fd65926e00.webp"
+      ],
+      "countInStock": "5",
+      "likes": [],
+      "id": 8,
+      "comments": []
+    },
+    {
+      "type": "Outer",
+      "title": "Lene",
+      "description": "A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life.Let’s Pro.",
+      "price": "999",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "+996 700 312 312",
+      "image": [
+        "https://cafe24img.poxo.com/looknone/web/product/medium/202110/28a13f8d7b719c194e75c294e7718a93.webp"
+      ],
+      "countInStock": "5",
+      "likes": [],
+      "id": 9,
+      "comments": []
+    },
+    {
+      "type": "Outer",
+      "title": "WENT Ivory",
+      "description": "A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life.Let’s Pro.",
+      "price": "999",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "+996 700 312 312",
+      "image": [
+        "https://cafe24img.poxo.com/looknone/web/product/medium/202111/a9650220531548fefc7839374160062d.webp"
+      ],
+      "countInStock": "5",
+      "likes": [],
+      "id": 10,
+      "comments": []
+    },
+    {
+      "type": "Outer",
+      "title": "BNT Navy ",
+      "description": "It is a half-zip-up man-to-man with a more natural mood.It is a product with lettering that adds to the casualness, and can be paired with any pants.It is an item that can be matched sensibly. It is easy to match with any body type, so it is good to use it as a daily item.Even if you wear it lightly, it adds a natural look,This product is more recommended for those who like casual mood.*There is a string strap at the hem, so the hem design can be adjusted :)",
+      "price": "999",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "+996 700 312 312",
+      "image": [
+        "https://cafe24img.poxo.com/looknone/web/product/medium/202111/e632b00628f8be7511a24e7084764978.webp"
+      ],
+      "countInStock": "5",
+      "likes": [],
+      "model": "Pro max",
+      "id": 11,
+      "comments": []
+    },
+    {
+      "type": "Outer",
+      "title": "Wet Slit Pad",
+      "description": "It is a knit that I like enough to be called a knit for life., eye, gray and brown 4 colors will be updated separately!Ivory was updated first. Enough to call it a life knitThe fit, fabric, warmth, finish, and design are so perfect.First of all, if you fold it inside with a shibori design at the hem, not a long length,It is a product that can be adjusted so that it does not come loose easily.",
+      "price": "999",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "+996 700 312 312",
+      "image": [
+        "https://cafe24img.poxo.com/looknone/web/product/medium/202111/bdeca6c8c51da68ec6f23ad46fb1e9a6.webp"
+      ],
+      "countInStock": "5",
+      "likes": [],
+      "id": 12,
+      "comments": []
+    },
+    {
+      "type": "Sport Man",
+      "title": "Man Zip-up",
+      "description": "A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life.Let’s Pro.",
+      "price": "999",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "+996 700 312 312",
+      "image": [
+        "https://ssumenam.com/web/product/big/202109/1f1a9178ec6ddd357320f8c3fa44cd5c.webp"
+      ],
+      "countInStock": "5",
+      "likes": [],
+      "id": 13,
+      "comments": []
+    },
+    {
+      "type": "Sport Man",
+      "title": "Lene",
+      "description": "A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life.Let’s Pro.",
+      "price": "999",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "+996 700 312 312",
+      "image": [
+        "https://ssumenam.com/web/product/big/202111/da296ceac797c1a3d6d3199833c76723.webp"
+      ],
+      "countInStock": "5",
+      "likes": [],
+      "id": 14,
+      "comments": []
+    },
+    {
+      "type": "Sport Man",
+      "title": " Lene Black-R Coat ",
+      "description": "A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life.Let’s Pro.",
+      "price": "999",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "+996 700 312 312",
+      "image": [
+        "https://ssumenam.com/web/product/big/202109/f2e66c2ecddfa4cea1468f038864c6a6.webp"
+      ],
+      "countInStock": "5",
+      "likes": [],
+      "model": "Pro max",
+      "id": 15,
+      "comments": []
+    },
+    {
+      "type": "Sport Man",
+      "title": "MENT Ivory Gray Stripe Knit",
+      "description": "It is a knit that I like enough to be called a knit for life., eye, gray and brown 4 colors will be updated separately!Ivory was updated first. Enough to call it a life knitThe fit, fabric, warmth, finish, and design are so perfect.First of all, if you fold it inside with a shibori design at the hem, not a long length,It is a product that can be adjusted so that it does not come loose easily.",
+      "price": "999",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "+996 700 312 312",
+      "image": [
+        "https://ssumenam.com/web/product/big/202111/000ae2f32c1a617edc10343e312edde0.webp"
+      ],
+      "countInStock": "5",
+      "likes": [],
+      "model": "Pro max",
+      "id": 16,
+      "comments": []
+    },
+    {
+      "type": "Sport Man",
+      "title": "DANE Cashmere Ivory Knit ",
+      "description": "It is a knit that I like enough to be called a knit for life., eye, gray and brown 4 colors will be updated separately!Ivory was updated first. Enough to call it a life knitThe fit, fabric, warmth, finish, and design are so perfect.First of all, if you fold it inside with a shibori design at the hem, not a long length,It is a product that can be adjusted so that it does not come loose easily.",
+      "price": "999",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "+996 700 312 312",
+      "image": [
+        "https://ssumenam.com/web/product/big/202109/9bbbe0bac72efd5421e05973ad0ad6a7.webp"
+      ],
+      "countInStock": "5",
+      "likes": [],
+      "model": "Pro max",
+      "id": 17,
+      "comments": []
+    },
+    {
+      "type": "Sport Man",
+      "title": "Zip-up MTM",
+      "description": "It is a half-zip-up man-to-man with a more natural mood.It is a product with lettering that adds to the casualness, and can be paired with any pants.It is an item that can be matched sensibly. It is easy to match with any body type, so it is good to use it as a daily item.Even if you wear it lightly, it adds a natural look,This product is more recommended for those who like casual mood.*There is a string strap at the hem, so the hem design can be adjusted :)",
+      "price": "1000",
+      "salePrice": "1500",
+      "discountInPercent": "20",
+      "phone": "+996 700 312 312",
+      "image": [
+        "https://ssumenam.com/web/product/big/202109/c4a6605fc4d20fb103022bd76074ba9e.webp"
+      ],
+      "countInStock": "5",
+      "likes": [],
+      "id": 18,
+      "comments": [
+        "Best"
+      ]
+    }
+  ]
+}
