@@ -50,7 +50,7 @@ const ProductsContextProvider = ({ children }) => {
 
 //Getproduct у нас функция рендерига 
   const getProducts = async (params) => {
-    const { data } = await axios(`http://localhost:8000/products?${params}`);
+    const { data } = await axios(`https://blooming-2021.herokuapp.com/api/products?${params}`);
     dispatch({
       type: "GET_PRODUCTS",
       payload: data,
@@ -59,13 +59,13 @@ const ProductsContextProvider = ({ children }) => {
 
 //AddProduct он отправляет post запрос json-server и внутри этой функции вызывается rendering getProducts
   async function addProduct(product) {
-    await axios.post("http://localhost:8000/products", product);
+    await axios.post("https://blooming-2021.herokuapp.com/api/products", product);
     getProducts();
   }
 
 // Для изменение мы создаем функцию getProductDetails то есть мы создаем инит - стейт. Там я будет пустой обьект Details 
   async function getProductDetails(id) {
-    const { data } = await axios(`http://localhost:8000/products/${id}`);
+    const { data } = await axios(`https://blooming-2021.herokuapp.com/api/products/${id}`);
     dispatch({
       type: "GET_PRODUCT_DETAILS",
       payload: data,
@@ -76,7 +76,7 @@ const ProductsContextProvider = ({ children }) => {
   //Функции clickDelete мы отправляем запрос на удаление по id. Он будет удалять по id.
   //И внутри этой функции вызываем функцию getProducts. getProducts это функция рендеринга.
   const clickDelete = async (id) => {
-    await axios.delete(`http://localhost:8000/products/${id}`);
+    await axios.delete(`https://blooming-2021.herokuapp.com/api/products/${id}`);
     getProducts();
   };
 
@@ -84,7 +84,7 @@ const ProductsContextProvider = ({ children }) => {
   //Потом мы создаем функцию editProductDetails.И мы в аргументах указываем id,newProduct. 
   //Мы отправляем patch запрос для изменение какого-то обьекта. И здесь же вызываем Getproducts htylthbyu
   async function editProductDetails(id, newProduct) {
-    await axios.patch(`http://localhost:8000/products/${id}`, newProduct);
+    await axios.patch(`https://blooming-2021.herokuapp.com/api/products/${id}`, newProduct);
     getProducts();
   }
 
