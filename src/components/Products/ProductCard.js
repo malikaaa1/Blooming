@@ -53,7 +53,7 @@ const ProductCard = ({ item }) => {
   };
 
   return (
-    <Grid item xs={4} xs={{}} className="GridCard">
+    <Grid item xs={4}  className="GridCard">
       <Card sx={{width: 350,borderRadius: 0}} className="CardMain">
          <div className="dws-wrapper">
          <div>
